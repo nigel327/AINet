@@ -1,6 +1,7 @@
 # SPF-Algorithm-by-NetworkX
 
-![Dijkstra's Algorithm](../images/Dijkstras_02.gif)
+![Dijkstras_02](https://user-images.githubusercontent.com/13347836/215267599-19c2fc3b-74ee-442e-9b39-a3e2fb697b28.gif)
+
 _images source:  [Dijkstra's Algorithm](https://github.com/kdn251/interviews)_
 
 I have been familiar with OSPF and IS-IS for years, as both were core routing protocols in large scalable networks. And they continued to dominate the local regional or metro traffic manipulation during the label-driven MPLS era. Despite initially being assigned to serve different addressing stacks, they shared a most common algorithm--Dijkstra's Algorithm to calculate the shortest paths for services transferring between each node-pairs of the network and provide reliable alternative links.
