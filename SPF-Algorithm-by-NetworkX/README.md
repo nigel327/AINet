@@ -7,4 +7,4 @@ I have been aquatinted with OSPF and IS-IS for many years, as both were core rou
 
 Network engineers had never deep-dived into source-code-level details about deploying the algorithm and selecting the shortest path in the routers and switches. I came across it again when I did a case study on choosing the most optimized flying airlines between different airports by graphic-machine-learning. You could discover different trip plans by various criteria, for instance, based on flying distance or time.
 
-The [notebook](./SPF-Algorithm-by-NetworkX.ipynb) was divided into two sections. It demonstrated the SPF algorithm (Dijkstra's Algorithm) mechanism with Python in part 1. It illustrated how to use a Python graphic library--NetworkX to obtain the best-flying airline with different considerations in the other.
+The [notebook](./SPF-Algorithm-by-NetworkX.ipynb) was divided into two sections. It first demonstrated the SPF algorithm (Dijkstra's Algorithm) mechanism with Python. Then it illustrated how to use a Python graphic library--NetworkX, to obtain the best-flying airline with different considerations in the other.
