@@ -1,7 +1,7 @@
 # SPF-Algorithm-by-NetworkX
 
-![Combining-signature-based-and-anomaly-based-detection-tactic](https://user-images.githubusercontent.com/13347836/212523623-8c0b96b4-49d7-4f93-a45c-4a5eb922bd5f.png)
-_images source: [Architectural Tactics for Big Data Cybersecurity Analytic Systems: A Review](https://www.researchgate.net/publication/323118409_Architectural_Tactics_for_Big_Data_Cybersecurity_Analytic_Systems_A_Review)_
+![[Dijkstra's Algorithm](../images/Dijkstras_02.gif)
+_images source:  [Dijkstra's Algorithm](https://github.com/kdn251/interviews)_
 
 Since the beginning of the last decade, cyber security has been the most popular trend every year, despite the movement of system design from IDC on-premise deployment to cloud computing and blockchain. As cutting-edge technologies like big data and artificial intelligence entered the picture, companies began to build next-generation security techniques to address emerging threats and weaknesses on the internet. In order to update the defensive system from single misuse-based (signature-based) detection and keep the policy current, anomaly-based detection offers a dynamic data-driven method for integrating machine learning algorithms into intrusion detection frameworks.
 
